@@ -1,0 +1,21 @@
+h1{
+  color: brown;
+  font-size: 80px
+}
+img:hover{
+  background-color: gold;
+}
+.becon{
+background: radial-gradient(red, blue);
+
+
+}
+.broccoli{
+background: linear-gradient(red, yellow, blue, orange);
+border-radius: 100%
+
+}
+#Heading
+{
+  color: green;
+}
